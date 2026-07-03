@@ -28,6 +28,8 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES xray-core sing-box hysteria kmod-nft-socket km
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-lucky lucky luci-i18n-lucky-zh-cn"
 # 关机插件，有关机提示
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-poweroffdevice luci-i18n-poweroffdevice-zh-cn"
+# adguardhome 
+CUSTOM_PACKAGES="$CUSTOM_PACKAGES adguardhome luci-app-adguardhome luci-i18n-adguardhome-zh-cn"
 # daed 升级到1.28.0
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-daed-zh-cn"
 # 任务设置 by sirpdboy
